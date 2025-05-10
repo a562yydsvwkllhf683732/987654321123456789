@@ -110,14 +110,12 @@ http://tv.bdiptv.store/live/restream/restreamkak/87.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="74" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA 
 http://tv.bdiptv.store/live/restream/restreamkak/14.m3u8
-#http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_list/1170x658310781121.png" group-title="Entertainment",ZEE BANGLA HD
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",STAR JALSHA SD
 http://opplex.ch:8080/live/789456123/789456123/245898.ts
-#http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
 #EXTM3u
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",STAR JALSHA HD
 http://tv.bdiptv.store/live/restream/restreamkak/52.m3u8
@@ -138,8 +136,7 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qvPXDQ68/Enter10-Bangla.jpg",ENTER 10 BANGLA
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",ZEE BANGLA CINEMA
 https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
@@ -153,7 +150,6 @@ http://tv.bdiptv.store/live/restream/restreamkak/81.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="",BANGLA PLUS
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA"tvg-logo="https://i.ibb.co.com/svXnVrQT/images-1744977797789.png",SONY MAX HD
 https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
@@ -165,7 +161,7 @@ https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 http://tv.bdiptv.store/live/restream/restreamkak/92.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="India" tvg-logo="https://i.ibb.co.com/zVk81s7L/watch-goldmines-tv-channel-live-on-dd-free-dish-get-channel-number-and-satellite-frequency-prev-ui.png",GODEMINES
-
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 #https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png" group-title="Entertainment", ZEE TV HD
