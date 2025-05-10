@@ -28,6 +28,9 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/SXt4ZHHb/channels4-profile-1.jpg",EKHONE TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #http://tv.bdiptv.store/live/restream/restreamkak/85.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/W46MM8Xw/images-1-removebg-preview.png",DESH TV
+http://starshare.org/live/ashokas/ashokas/394.ts
 #EXTM3U 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Z6L6yKsL/download.png",MAASRANGA HD
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -285,6 +288,12 @@ https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 ##https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/p98XBpf/Arynews-removebg-preview.png",ARY NEWS
+http://starshare.org/live/ashokas/ashokas/143.ts
+#EXTM3U
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/CsQvxsX2/images-removebg-preview.png",GEO NEWS
+http://starshare.org/live/ashokas/ashokas/129.ts
+#EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/JWVg4vqs/images-13.jpg",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTM3U
@@ -297,6 +306,9 @@ http://tv.bdiptv.store/live/restream/restreamkak/98.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information", ANIMAL PLANET HD
 #http://starshare.live/live/bana/bana/182.m3u8
 https://github.com/rahul979854/Channels/raw/main/AnimalsPlanetHd.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASAALA
+http://starshare.org/live/ashokas/ashokas/1919.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/q3870F8P/images.png",NATIONAL
 http://opplex.tv:8080/live/mother/mother/245967.ts
