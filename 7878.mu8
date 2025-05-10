@@ -105,9 +105,6 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/SGGPM2G/download-2.png",MY TV HD
 https://mytvbangla.com/0.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg", ZEE 24
-https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/XxKjGBHf/images-7.jpg",GTV HD
 http://tv.bdiptv.store/live/restream/restreamkak/87.m3u8
 #EXTM3U
@@ -293,6 +290,9 @@ http://starshare.org/live/ashokas/ashokas/143.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/CsQvxsX2/images-removebg-preview.png",GEO NEWS
 http://starshare.org/live/ashokas/ashokas/129.ts
+#EXTM3U
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg", ZEE 24
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/JWVg4vqs/images-13.jpg",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
