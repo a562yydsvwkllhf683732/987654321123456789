@@ -136,7 +136,8 @@ https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_in
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963480044.png",HUM TV 
-https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
+http://opplex.tv:8080/live/mother/mother/221339.ts
+#https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qvPXDQ68/Enter10-Bangla.jpg",ENTER 10 BANGLA
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -329,7 +330,8 @@ https://wildearth-plex.amagi.tv/master.m3u8
 http://starshare.org/live/ashokas/ashokas/20622.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASAALA
-http://starshare.org/live/ashokas/ashokas/1919.ts
+http://opplex.tv:8080/live/mother/mother/388633.ts
+#http://starshare.org/live/ashokas/ashokas/1919.ts
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="Lifestyle", ZEE ZEST HD
 https://live.drmlive-02.workers.dev/zee/348.m3u8
