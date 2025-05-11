@@ -118,10 +118,10 @@ http://tv.bdiptv.store/live/restream/restreamkak/14.m3u8
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",STAR JALSHA SD
-http://opplex.ch:8080/live/789456123/789456123/245898.ts
+http://tv.bdiptv.store/live/restream/restreamkak/52.m3u8
 #EXTM3u
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",STAR JALSHA HD
-http://tv.bdiptv.store/live/restream/restreamkak/52.m3u8
+http://opplex.tv:8080/live/mother/mother/245898.ts
 #EXTM3U
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",COLORS BANGLA HD
 http://tv.bdiptv.store/live/restream/restreamkak/91.m3u8
@@ -218,19 +218,19 @@ http://starshare.org/live/kumar11/kumar11/18456.ts
 http://tv.bdiptv.store/live/restream/restreamkak/159.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/GN8TVjX/images-2.png",DISNEP CHANNEL
-http://opplex.ch:8080/live/789456123/789456123/167551.ts
+http://opplex.tv:8080/live/mother/mother/167551.ts
 #http://38.76.152.22:8000/play/a070/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/3mhm3Tjm/images-1.jpg",MOTU-PATLU 1
-http://opplex.ch:8080/live/789456123/789456123/307079.ts
+http://opplex.tv:8080/live/mother/mother/307079.ts
 #http://xott.live/live/259862/259861/311373.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/1G9K3MV5/download.jpg",MOTU-PATLU 2
-http://opplex.ch:8080/live/789456123/789456123/311373.ts
+http://opplex.tv:8080/live/mother/mother/311373.ts
 #http://xott.live/live/259862/259861/307079.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Ngr5Vvw0/images.jpg",DORAMON
-http://opplex.ch:8080/live/789456123/789456123/388459.ts
+http://opplex.tv:8080/live/mother/mother/388459.ts
 #http://xott.live/live/259862/259861/388459.ts
 #EXTM3U 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/zWC6xWJH/Rongeen-TV-logo-2019-present.png",RONGEEN TV
