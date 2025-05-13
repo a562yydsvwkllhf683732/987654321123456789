@@ -40,7 +40,8 @@ http://tv.bdiptv.store/live/restream/restreamkak/58.m3u8
 #http://opplex.ch:8080/live/789456123/789456123/245914.ts
 #EXTM3U 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Z6L6yKsL/download.png",MAASRANGA HD
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+http://gotit14.xyz/live/2F635BX/ZJX02CY/606161.ts
+#https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",DURONTO TV
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
@@ -202,9 +203,6 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/CFm6Qh1/Sony-MAX2.png",SONY MAX 2
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/YTyhmqsC/download-removebg-preview.png",B4U
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",NICK BANGLA
 http://tv.bdiptv.store/live/restream/restreamkak/241.m3u8
 #http://38.76.152.22:8000/play/a00w/index.m3u8
@@ -240,9 +238,6 @@ http://opplex.tv:8080/live/mother/mother/311373.ts
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Ngr5Vvw0/images.jpg",DORAMON
 http://opplex.tv:8080/live/mother/mother/388459.ts
 #http://xott.live/live/259862/259861/388459.ts
-#EXTM3U
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/hFKV4QST/removebg-preview.png",KHUSHBOO BANGLA
-http://gotit14.xyz/live/2F635BX/ZJX02CY/606161.ts
 #EXTM3U 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/zWC6xWJH/Rongeen-TV-logo-2019-present.png",RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
