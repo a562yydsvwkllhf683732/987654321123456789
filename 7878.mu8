@@ -242,7 +242,7 @@ http://opplex.tv:8080/live/mother/mother/388459.ts
 #http://xott.live/live/259862/259861/388459.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/hFKV4QST/removebg-preview.png",KHUSHBOO BANGLA
-http://gotit14.xyz/live/2F635BX/ZJX02CY/1020718.ts
+http://gotit14.xyz/live/2F635BX/ZJX02CY/606161.ts
 #EXTM3U 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/zWC6xWJH/Rongeen-TV-logo-2019-present.png",RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
@@ -335,8 +335,7 @@ https://wildearth-plex.amagi.tv/master.m3u8
 http://starshare.org/live/ashokas/ashokas/20622.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASAALA
-http://opplex.tv:8080/live/mother/mother/388633.ts
-#http://starshare.org/live/ashokas/ashokas/1919.ts
+http://starshare.org/live/ashokas/ashokas/1919.ts
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="Lifestyle", ZEE ZEST HD
 https://live.drmlive-02.workers.dev/zee/348.m3u8
