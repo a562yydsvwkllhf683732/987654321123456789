@@ -204,15 +204,13 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",NICK BANGLA
-http://tv.bdiptv.store/live/restream/restreamkak/241.m3u8
-#http://38.76.152.22:8000/play/a00w/index.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159901.ts
+#http://tv.bdiptv.store/live/restream/restreamkak/241.m3u8
 #http://tv.bdiptv.store/live/restream/restream25/96.m3u8
-#https://opplex.tv:8080/live/mother/mother/150482.ts
 #EXTM3U
 #EXTINF:-1 group-title="India" tvg-logo="https://i.ibb.co.com/gZBv98pk/images.jpg",SONIC BANGLA
-http://tv.bdiptv.store/live/restream/restreamkak/242.m3u8
-#http://opplex.ch:8080/live/789456123/789456123/380860.ts
-#http://opplex.tv:8080/live/mother/mother/34011.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159899.ts
+#http://tv.bdiptv.store/live/restream/restreamkak/242.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",SONY YAY
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
@@ -305,7 +303,8 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/vvRLnh02/images-1744979362989.png",DISCOVERY HD
-http://tv.bdiptv.store/live/restream/restreamkak/98.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159895.ts
+#http://tv.bdiptv.store/live/restream/restreamkak/98.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information", ANIMAL PLANET HD
 #http://starshare.live/live/bana/bana/182.m3u8
