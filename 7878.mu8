@@ -203,9 +203,9 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",NICK BANGLA
-http://tv.bdiptv.store/live/restream/restreamkak/241.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/96.m3u8
+#http://tv.bdiptv.store/live/restream/restreamkak/241.m3u8
 #http://gotit14.xyz/live/2F635BX/ZJX02CY/510220.ts
-#http://tv.bdiptv.store/live/restream/restream25/96.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="India" tvg-logo="https://i.ibb.co.com/gZBv98pk/images.jpg",SONIC BANGLA
 http://tv.bdiptv.store/live/restream/restreamkak/242.m3u8
