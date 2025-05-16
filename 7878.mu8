@@ -30,7 +30,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #http://tv.bdiptv.store/live/restream/restreamkak/85.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/W46MM8Xw/images-1-removebg-preview.png",DESH TV
-http://starshare.org/live/ashokas/ashokas/394.ts
+https://webhop.xyz:443/live/rasheen/rasheen/394.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/vC4KvzHD/Ekattor-TV-logo-svg.png",EKATTOR
 http://tv.bdiptv.store/live/restream/restreamkak/57.m3u8
@@ -49,7 +49,6 @@ https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/4n91Q8fz/images-3.jpg",CHANNEL I
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamkak/59.m3u8
-#http://38.96.178.201/live/ChannelI/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/C3CJVjPV/images-4.jpg",R TV HD
 http://tv.bdiptv.store/live/restream/restreamkak/75.m3u8
@@ -61,10 +60,10 @@ http://line.ultrab.xyz/live/ZeeALI1/465841/108878.ts
 http://tv.bdiptv.store/live/restream/restreamkak/61.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/gMyqZrRV/images-6.jpg",MOHONA TV
-http://starshare.org/live/ashokas/ashokas/397.ts
+https://webhop.xyz:443/live/rasheen/rasheen/397.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/JwTDXgRf/images.png",NAGORIK TV
-http://starshare.org/live/ashokas/ashokas/3802.ts
+https://webhop.xyz:443/live/rasheen/rasheen/3802.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/3Y4f6cMj/download.png",N TV HD
 http://tv.bdiptv.store/live/restream/restreamkak/78.m3u8
@@ -73,7 +72,7 @@ http://tv.bdiptv.store/live/restream/restreamkak/78.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/4Z6ckxQG/images-5.jpg",ASIAN TV
-http://starshare.org/live/ashokas/ashokas/430.ts
+https://webhop.xyz:443/live/rasheen/rasheen/430.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/q3QxC1nw/images-8.jpg",NEXUS TV HD
 http://38.96.178.201/live/NexusTV/index.m3u8
@@ -204,13 +203,13 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",NICK BANGLA
-http://gotit14.xyz/live/2F635BX/ZJX02CY/510220.ts
-#http://tv.bdiptv.store/live/restream/restreamkak/241.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/241.m3u8
+#http://gotit14.xyz/live/2F635BX/ZJX02CY/510220.ts
 #http://tv.bdiptv.store/live/restream/restream25/96.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="India" tvg-logo="https://i.ibb.co.com/gZBv98pk/images.jpg",SONIC BANGLA
-http://gotit14.xyz/live/2F635BX/ZJX02CY/510222.ts
-#http://tv.bdiptv.store/live/restream/restreamkak/242.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/242.m3u8
+#http://gotit14.xyz/live/2F635BX/ZJX02CY/510222.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",SONY YAY
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
@@ -303,8 +302,8 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/vvRLnh02/images-1744979362989.png",DISCOVERY HD
-http://gotit14.xyz/live/2F635BX/ZJX02CY/510485.ts
-#http://tv.bdiptv.store/live/restream/restreamkak/98.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/98.m3u8
+#http://gotit14.xyz/live/2F635BX/ZJX02CY/510485.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information", ANIMAL PLANET HD
 #http://starshare.live/live/bana/bana/182.m3u8
@@ -327,10 +326,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/yDmkH01/images-2-removebg-preview.png",TRAVELXP HD
-http://starshare.org/live/ashokas/ashokas/20622.ts
+https://webhop.xyz:443/live/rasheen/rasheen/20622.ts
 #EXTM3U
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASAALA
-http://starshare.org/live/ashokas/ashokas/1919.ts
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASALA
+https://webhop.xyz:443/live/rasheen/rasheen/36927.ts
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="Lifestyle", ZEE ZEST HD
 https://live.drmlive-02.workers.dev/zee/348.m3u8
