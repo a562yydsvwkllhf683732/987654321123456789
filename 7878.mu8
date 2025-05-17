@@ -157,7 +157,8 @@ http://tv.bdiptv.store/live/restream/restreamkak/81.m3u8
 #http://gotit14.xyz:80/live/2F635BX/ZJX02CY/34725.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="",BANGLA PLUS
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/dsRRMM8r/images-4.jpg",STAR PLUS HD
 http://tv.bdiptv.store/live/restream/restreamkak/53.m3u8
@@ -188,7 +189,7 @@ http://tv.bdiptv.store/live/restream/restreamkak/92.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="India" tvg-logo="https://i.ibb.co.com/zVk81s7L/watch-goldmines-tv-channel-live-on-dd-free-dish-get-channel-number-and-satellite-frequency-prev-ui.png",GODEMINES
 #https://cdn-2.pishow.tv/live/1461/master.m3u8
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="India" tvg-logo="https://i.ibb.co.com/n8mrp54N/images-1.jpg", COLORS C SUPER
 http://tv.bdiptv.store/live/restream/restreamkak/240.m3u8
@@ -261,7 +262,7 @@ http://tv.bdiptv.store/live/restream/restreamkak/15263.m3u8
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://i.ibb.co.com/gZpvGJmt/images-2.jpg",STAR SPORTS 1 HD
 http://tv.bdiptv.store/live/restream/restreamkak/89.m3u8
@@ -290,13 +291,13 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 ##https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/CsQvxsX2/images-removebg-preview.png",GEO NEWS
-http://starshare.org/live/ashokas/ashokas/129.ts
+
 #EXTM3U
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg", ZEE 24
-https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+#https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/ZCFvT7h/images-12.jpg",BBC 
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="English News",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
