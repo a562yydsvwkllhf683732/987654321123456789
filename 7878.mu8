@@ -72,7 +72,8 @@ http://tv.bdiptv.store/live/restream/restreamkak/78.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/4Z6ckxQG/images-5.jpg",ASIAN TV
-https://webhop.xyz:443/live/rasheen/rasheen/430.ts
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+#http://tv.bdiptv.store/live/restream/restreamkak/146.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/q3QxC1nw/images-8.jpg",NEXUS TV HD
 http://38.96.178.201/live/NexusTV/index.m3u8
@@ -94,7 +95,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 http://38.96.178.201/live/BanglaTV/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BKGkcw3b/Channel-S-Bangladesh-Logo.png"group-title="BANGLADESH",S TV
-http://38.96.178.201/live/ChannelS/index.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/155.ts
+#http://38.96.178.201/live/ChannelS/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/R4NTp4K9/Movie-Bangla1731598654.png",MOVIE TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
