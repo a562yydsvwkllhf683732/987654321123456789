@@ -122,11 +122,11 @@ https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",STAR JALSHA SD
 http://tv.bdiptv.store/live/restream/restreamkak/52.m3u8
 #EXTM3u
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",STAR JALSHA HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",STAR JALSHA HD
 https://github.com/rahul979854/Channels/raw/main/StarJalshaHd.m3u8
 #http://opplex.tv:8080/live/mother/mother/245898.ts
 #EXTM3U
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",COLORS BANGLA HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",COLORS BANGLA HD
 http://tv.bdiptv.store/live/restream/restreamkak/91.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -135,7 +135,7 @@ http://tv.bdiptv.store/live/restream/restreamkak/91.m3u8
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #http://xtv.ooo:8080/Jawad1994/03112371534/245906
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/KjvSSYZ6/mobile-logo-496322001666780228.png",SONY AATH
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/KjvSSYZ6/mobile-logo-496322001666780228.png",SONY AATH
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963480044.png",HUM TV 
@@ -227,6 +227,9 @@ http://tv.bdiptv.store/live/restream/restreamkak/159.m3u8
 http://opplex.tv:8080/live/mother/mother/167551.ts
 #http://38.76.152.22:8000/play/a070/index.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co/XkxjFLQd/images.jpg",DISNEP HD
+
+#EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/3mhm3Tjm/images-1.jpg",MOTU-PATLU 1
 http://opplex.tv:8080/live/mother/mother/307079.ts
 #http://xott.live/live/259862/259861/311373.ts
@@ -295,10 +298,10 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/CsQvxsX2/images-removebg-preview.png",GEO NEWS
 
 #EXTM3U
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg", ZEE 24
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg", ZEE 24
 #https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="English News",ALJAZEERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="INDIA News",ALJAZEERA
 #https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/vvRLnh02/images-1744979362989.png",DISCOVERY HD
@@ -312,23 +315,23 @@ https://github.com/rahul979854/Channels/raw/main/AnimalsPlanetHd.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/9mvzyvg2/channels4-profile-2.jpg",SONY BBC HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/q3870F8P/images.png",NATIONAL
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/q3870F8P/images.png",NATIONAL
 http://starshare.org/live/kumar11/kumar11/7343.ts
 #http://opplex.tv:8080/live/mother/mother/245967.ts
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/1Gny5NSv/images-1.jpg",WILD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/1Gny5NSv/images-1.jpg",WILD
 http://gotit14.xyz/live/2F635BX/ZJX02CY/72219.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/JWVg4vqs/images-13.jpg",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/8n4VVBGm/images.jpg",WILD EARTH
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/8n4VVBGm/images.jpg",WILD EARTH
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/yDmkH01/images-2-removebg-preview.png",TRAVELXP HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/yDmkH01/images-2-removebg-preview.png",TRAVELXP HD
 http://starshare.org/live/kumar11/kumar11/20622.ts
 #EXTM3U
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASALA
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASALA
 http://starshare.org/live/kumar11/kumar11/36927.ts
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="Lifestyle", ZEE ZEST HD
