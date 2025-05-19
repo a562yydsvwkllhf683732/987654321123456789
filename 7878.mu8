@@ -216,6 +216,7 @@ http://tv.bdiptv.store/live/restream/restreamkak/242.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",SONY YAY
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+#http://tv.bdiptv.store/live/restream/restreamkak/13.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/bj6skF3M/images-3.jpg",HUNGAMA 
 http://starshare.org/live/kumar11/kumar11/18456.ts
@@ -228,7 +229,7 @@ http://opplex.tv:8080/live/mother/mother/167551.ts
 #http://38.76.152.22:8000/play/a070/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co/XkxjFLQd/images.jpg",DISNEP HD
-
+http://tv.bdiptv.store/live/restream/restreamkak/71.ts
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/3mhm3Tjm/images-1.jpg",MOTU-PATLU 1
 http://opplex.tv:8080/live/mother/mother/307079.ts
