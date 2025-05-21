@@ -37,6 +37,9 @@ http://tv.bdiptv.store/live/restream/restreamzz/57.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/fJ0GSb1/images.png",DBC
 http://tv.bdiptv.store/live/restream/restreamzz/58.m3u8
 #http://opplex.ch:8080/live/789456123/789456123/245914.ts
+#EXTM3U
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co/1JMtP4y0/news24-channel-logo-png-seeklogo-362149-removebg-preview.png",NEWS 24
+https://ayna-three.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
 #EXTM3U 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Z6L6yKsL/download.png",MAASRANGA HD
 http://gotit14.xyz/live/2F635BX/ZJX02CY/606161.ts
@@ -72,6 +75,9 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/4Z6ckxQG/images-5.jpg",ASIAN TV
 http://tv.bdiptv.store/live/restream/restreamzz/146.ts
+#EXTM3U
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co/1wNGVtq/images-removebg-preview.png",GLOBAL TV
+https://ayna-three.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/q3QxC1nw/images-8.jpg",NEXUS TV HD
 http://38.96.178.201/live/NexusTV/index.m3u8
