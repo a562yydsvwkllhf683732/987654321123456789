@@ -9,7 +9,6 @@ http://line.ultrab.xyz/live/ZeeALI1/465841/108800.ts
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/zTgqxTzv/somoy-tv-logo-png-seeklogo-536972.png",SOMOY TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamkak/77.m3u8
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Hpddjjy4/channels4-profile.jpg",INDEPNDENT HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
@@ -42,11 +41,12 @@ http://tv.bdiptv.store/live/restream/restreamzz/58.m3u8
 https://ayna-three.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
 #EXTM3U 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Z6L6yKsL/download.png",MAASRANGA HD
-http://gotit14.xyz/live/2F635BX/ZJX02CY/606161.ts
+https://ayna-three.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8
 #https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",DURONTO TV
-https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+https://ayna-three.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
+#https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/4n91Q8fz/images-3.jpg",CHANNEL I
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
@@ -247,7 +247,8 @@ http://opplex.tv:8080/live/mother/mother/388459.ts
 #http://xott.live/live/259862/259861/388459.ts
 #EXTM3U 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/zWC6xWJH/Rongeen-TV-logo-2019-present.png",RONGEEN TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+http://gotit14.xyz/live/2F635BX/ZJX02CY/606161.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="KIDS", CARTOON HD
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
