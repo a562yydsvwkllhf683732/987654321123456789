@@ -127,8 +127,8 @@ http://tv.bdiptv.store/live/restream/restreamzz/223.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/52.m3u8
 #EXTM3u
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",STAR JALSHA HD
-https://github.com/rahul979854/Channels/raw/main/StarJalshaHd.m3u8
-#http://opplex.tv:8080/live/mother/mother/245898.ts
+#https://github.com/rahul979854/Channels/raw/main/StarJalshaHd.m3u8
+http://opplex.tv:8080/live/mother/mother/245898.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",COLORS BANGLA HD
 http://tv.bdiptv.store/live/restream/restreamzz/91.m3u8
