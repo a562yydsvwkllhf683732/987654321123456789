@@ -25,7 +25,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamkak/73.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/SXt4ZHHb/channels4-profile-1.jpg",EKHONE TV
-http://tv.bdiptv.store/live/restream/restreazz/85.m3u8
+http://tv.bdiptv.store/live/restream/restreamzz/85.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/W46MM8Xw/images-1-removebg-preview.png",DESH TV
 http://starshare.org/live/kumar11/kumar11/394.ts
@@ -213,50 +213,51 @@ http://tv.bdiptv.store/live/restream/restreamzz/96.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/241.m3u8
 #http://gotit14.xyz/live/2F635BX/ZJX02CY/510220.ts
 #EXTM3U
-#EXTINF:-1 group-title="India" tvg-logo="https://i.ibb.co.com/gZBv98pk/images.jpg",SONIC BANGLA
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/gZBv98pk/images.jpg",SONIC BANGLA
 http://tv.bdiptv.store/live/restream/restreamzz/242.m3u8
 #http://gotit14.xyz/live/2F635BX/ZJX02CY/510222.ts
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",SONY YAY
+#EXTINF:-1 tvg-logo-title="Kids"tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",SONY YAY
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #http://tv.bdiptv.store/live/restream/restreamkak/13.ts
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/bj6skF3M/images-3.jpg",HUNGAMA 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/bj6skF3M/images-3.jpg",HUNGAMA 
 http://starshare.org/live/kumar11/kumar11/18456.ts
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/HszssGV/images-3.jpg",SUPER HUNGAMA
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/HszssGV/images-3.jpg",SUPER HUNGAMA
 http://tv.bdiptv.store/live/restream/restreamzz/159.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/GN8TVjX/images-2.png",DISNEP CHANNEL
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/GN8TVjX/images-2.png",DISNEP CHANNEL
 http://opplex.tv:8080/live/mother/mother/167551.ts
 #http://38.76.152.22:8000/play/a070/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co/XkxjFLQd/images.jpg",DISNEP HD
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/XkxjFLQd/images.jpg",DISNEP HD
 http://tv.bdiptv.store/live/restream/restreamzz/71.ts
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/3mhm3Tjm/images-1.jpg",MOTU-PATLU 1
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/3mhm3Tjm/images-1.jpg",MOTU-PATLU 1
 http://opplex.tv:8080/live/mother/mother/307079.ts
 #http://xott.live/live/259862/259861/311373.ts
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/1G9K3MV5/download.jpg",MOTU-PATLU 2
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/1G9K3MV5/download.jpg",MOTU-PATLU 2
 http://opplex.tv:8080/live/mother/mother/311373.ts
 #http://xott.live/live/259862/259861/307079.ts
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Ngr5Vvw0/images.jpg",DORAMON
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/Ngr5Vvw0/images.jpg",DORAMON
 http://opplex.tv:8080/live/mother/mother/388459.ts
 #http://xott.live/live/259862/259861/388459.ts
 #EXTM3U 
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/zWC6xWJH/Rongeen-TV-logo-2019-present.png",RONGEEN TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/zWC6xWJH/Rongeen-TV-logo-2019-present.png",RONGEEN TV
 #https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 http://gotit14.xyz/live/2F635BX/ZJX02CY/606161.ts
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="KIDS", CARTOON HD
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:-1 tvg-logo="Kids" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="KIDS", CARTOON HD
+http://tv.bdiptv.store/live/restream/restreamzz/10.m3u8
+#https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS",POGO KIDS
+#EXTINF:-1 tvg-logo="Kids" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS",POGO KIDS
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="KIDS",DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="Kids" tvg-logo= "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="KIDS",DISCOVERY KIDS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
