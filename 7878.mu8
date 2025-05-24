@@ -88,7 +88,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
 #http://38.96.178.201/live/ATNBangla/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/39mqJq82/Logo-of-Bijoy-TV-svg.png",BIJOY TV
-#http://38.96.178.201/live/BijoyTV/index.m3u8
+http://38.96.178.201/live/BijoyTV/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Z1Sf2fwL/images-1.jpg",SATV
 http://tv.bdiptv.store/live/restream/restreamzz/55.m3u8
@@ -98,8 +98,8 @@ http://tv.bdiptv.store/live/restream/restreamzz/55.m3u8
 http://38.96.178.201/live/BanglaTV/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BKGkcw3b/Channel-S-Bangladesh-Logo.png"group-title="BANGLADESH",S TV
-http://tv.bdiptv.store/live/restream/restreamzz/155.ts
-#http://38.96.178.201/live/ChannelS/index.m3u8
+#http://tv.bdiptv.store/live/restream/restreamzz/155.ts
+http://38.96.178.201/live/ChannelS/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/R4NTp4K9/Movie-Bangla1731598654.png",MOVIE TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -128,7 +128,7 @@ http://tv.bdiptv.store/live/restream/restreamzz/223.m3u8
 #EXTM3u
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",STAR JALSHA HD
 #https://github.com/rahul979854/Channels/raw/main/StarJalshaHd.m3u8
-http://opplex.tv:8080/live/mother/mother/245898.ts
+http://opplex.ch:8080/live/323232/323232/245898.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",COLORS BANGLA HD
 http://tv.bdiptv.store/live/restream/restreamzz/91.m3u8
@@ -158,8 +158,8 @@ https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 http://tv.bdiptv.store/live/restream/restreamzz/238.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/XZdWGJcr/images-9.jpg",JALSHA MOVIES HD
-http://tv.bdiptv.store/live/restream/restreamzz/81.m3u8
-#http://gotit14.xyz:80/live/2F635BX/ZJX02CY/34725.ts
+#http://tv.bdiptv.store/live/restream/restreamzz/81.m3u8
+http://gotit14.xyz:80/live/2F635BX/ZJX02CY/34725.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="",BANGLA PLUS
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
@@ -301,16 +301,13 @@ https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/Xkd1kwn0/Six-HD.png",SONY 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-##https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co.com/CsQvxsX2/images-removebg-preview.png",GEO NEWS
-
+#https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg", ZEE 24
-#https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="INDIA News",ALJAZEERA
-#https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/vvRLnh02/images-1744979362989.png",DISCOVERY HD
 http://tv.bdiptv.store/live/restream/restreamzz/98.m3u8
