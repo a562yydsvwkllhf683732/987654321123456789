@@ -209,7 +209,8 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",NICK BANGLA
-http://tv.bdiptv.store/live/restream/restreamzz/96.m3u8
+http://38.76.152.22:8000/play/a00w/index.m3u8
+#http://tv.bdiptv.store/live/restream/restreamzz/96.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/241.m3u8
 t14.xyz/live/2F635BX/ZJX02CY/510220.ts
 #EXTM3U
@@ -228,8 +229,8 @@ http://starshare.org/live/kumar11/kumar11/18456.ts
 http://tv.bdiptv.store/live/restream/restreamzz/159.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co.com/GN8TVjX/images-2.png",DISNEP CHANNEL
-http://opplex.tv:8080/live/mother/mother/167551.ts
-#http://38.76.152.22:8000/play/a070/index.m3u8
+#http://opplex.tv:8080/live/mother/mother/167551.ts
+http://38.76.152.22:8000/play/a070/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/XkxjFLQd/images.jpg",DISNEP HD
 http://tv.bdiptv.store/live/restream/restreamzz/71.ts
