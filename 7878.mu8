@@ -126,9 +126,14 @@ http://tv.bdiptv.store/live/restream/restreamzz/14.m3u8
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="INDIABANGLA",STAR JALSHA SD
-http://tv.bdiptv.store/live/restream/restreamzz/223.m3u8
+#http://tv.bdiptv.store/live/restream/restreamzz/223.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/52.m3u8
 #EXTM3u
+#EXTINF:-1 tvg-id="86" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740372275659.png",STAR JALSHA SD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/3c65b579-5825
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1713/output/index.mpd
+#EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",STAR JALSHA HD
 #https://github.com/rahul979854/Channels/raw/main/StarJalshaHd.m3u8
 http://opplex.ch:8080/live/323232/323232/245898.ts
@@ -166,7 +171,12 @@ https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co.com/XZdWGJcr/images-9.jpg",JALSHA MOVIES HD
 #http://tv.bdiptv.store/live/restream/restreamzz/81.m3u8
-http://gotit14.xyz:80/live/2F635BX/ZJX02CY/34725.ts
+#http://gotit14.xyz:80/live/2F635BX/ZJX02CY/34725.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",JALSHA MOVIES
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/dd5030d1-5cc8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1724/output/index.mpd
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="INDIABANGLA",BANGLA PLUS
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
@@ -317,6 +327,11 @@ https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTM3U
+#EXTINF:-1 tvg-id="90" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045577141.png",EURO SPORTS HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/df67fc1a-01d1
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1712/output/index.mpd
+#EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg", ZEE 24
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTM3U
@@ -367,3 +382,7 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="ISLAMICS", PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
 #EXTM3U
+#EXTINF:-1 tvg-id="82" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735048740482.png",STAR MOVIES HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/0f2ba568-bf5b
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1725/output/index.mpd
