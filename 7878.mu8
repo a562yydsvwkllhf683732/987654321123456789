@@ -31,7 +31,8 @@ http://tv.bdiptv.store/live/restream/restreamzz/85.m3u8
 http://starshare.org/live/kumar11/kumar11/394.ts
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/vC4KvzHD/Ekattor-TV-logo-svg.png",EKATTOR
-http://tv.bdiptv.store/live/restream/restreamzz/57.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
+#http://tv.bdiptv.store/live/restream/restreamzz/57.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/fJ0GSb1/images.png",DBC
 #http://tv.bdiptv.store/live/restream/restreamzz/58.m3u8
@@ -60,7 +61,8 @@ http://opplex.to/live/Daljeets290/9671717722DSv%40/245947.ts
 http://line.ultrab.xyz/live/ZeeALI1/465841/108878.ts
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/TqH6zVBM/images-5.jpg",BANGLA VISION
-http://103.230.105.252:1935/live/masranga/index.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/index.m3u8
+#http://103.230.105.252:1935/live/masranga/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/61.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/gMyqZrRV/images-6.jpg",MOHONA TV
@@ -70,7 +72,8 @@ http://starshare.org/live/kumar11/kumar11/397.ts
 http://starshare.org/live/kumar11/kumar11/3802.ts
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/3Y4f6cMj/download.png",N TV HD
-http://tv.bdiptv.store/live/restream/restreamzz/78.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
+#http://tv.bdiptv.store/live/restream/restreamzz/78.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/84RjxK51/images-4.jpg",BOISHAKHI TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -356,7 +359,7 @@ http://starshare.org/live/kumar11/kumar11/7343.ts
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/1Gny5NSv/images-1.jpg",WILD
 http://gotit14.xyz/live/2F635BX/ZJX02CY/72219.ts
 #EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/JWVg4vqs/images-13.jpg",LOVE NATURE
+#EXTINF:-1 group-title="DISCOVERY" tvogo="https://i.ibb.co.com/JWVg4vqs/images-13.jpg",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/8n4VVBGm/images.jpg",WILD EARTH
@@ -382,7 +385,11 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="ISLAMICS", PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW1n07rD/images.jpg",SONY PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="82" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735048740482.png",STAR MOVIES HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/0f2ba568-bf5b
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1725/output/index.mpd
+#EXTM3U
