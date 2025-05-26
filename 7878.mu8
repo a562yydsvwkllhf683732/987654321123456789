@@ -25,7 +25,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamkak/73.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/SXt4ZHHb/channels4-profile-1.jpg",EKHONE TV
-http://tv.bdiptv.store/live/restream/restreamzz/85.m3u8
+https://ayna-three.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
+#http://tv.bdiptv.store/live/restream/restreamzz/85.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/W46MM8Xw/images-1-removebg-preview.png",DESH TV
 http://starshare.org/live/kumar11/kumar11/394.ts
@@ -35,18 +36,22 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/57.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/fJ0GSb1/images.png",DBC
+https://ayna-three.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/58.m3u8
-http://opplex.ch:8080/live/323232/323232/245914.ts
+#http://opplex.ch:8080/live/323232/323232/245914.ts
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/1JMtP4y0/news24-channel-logo-png-seeklogo-362149-removebg-preview.png",NEWS 24
-http://starshare.org/live/kumar11/kumar11/3810.ts
+https://ayna-three.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
+#http://starshare.org/live/kumar11/kumar11/3810.ts
 #EXTM3U 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/Z6L6yKsL/download.png",MAASRANGA HD
-http://starshare.org/live/kumar11/kumar11/1036.ts
+https://ayna-three.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8
+#http://starshare.org/live/kumar11/kumar11/1036.ts
 #https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",DURONTO TV
-http://starshare.org/live/kumar11/kumar11/433.ts
+https://ayna-three.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
+#http://starshare.org/live/kumar11/kumar11/433.ts
 #https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/4n91Q8fz/images-3.jpg",CHANNEL I
@@ -54,7 +59,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamkak/59.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/C3CJVjPV/images-4.jpg",R TV HD
-http://opplex.to/live/Daljeets290/9671717722DSv%40/245947.ts
+https://ayna-three.vercel.app/api/stream/70e97db9-5a9e-4642-874e-af3d30ba9925.m3u8
+#http://opplex.to/live/Daljeets290/9671717722DSv%40/245947.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/75.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/fdjcpJ74/images-1746081686616.png",ANAD TV
@@ -64,6 +70,9 @@ http://line.ultrab.xyz/live/ZeeALI1/465841/108878.ts
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/index.m3u8
 #http://103.230.105.252:1935/live/masranga/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/61.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="14" tvg-logo="https://s3.aynaott.com/storage/2ea72603615c5a81e098d12342ddc3b4", ClHANNEL 9
+https://ayna-three.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/gMyqZrRV/images-6.jpg",MOHONA TV
 http://starshare.org/live/kumar11/kumar11/397.ts
@@ -79,11 +88,13 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/4Z6ckxQG/images-5.jpg",ASIAN TV
-http://opplex.to/live/Daljeets290/9671717722DSv%40/245908.ts
+https://ayna-three.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
+#http://opplex.to/live/Daljeets290/9671717722DSv%40/245908.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/146.ts
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/1wNGVtq/images-removebg-preview.png",GLOBAL TV
-http://starshare.org/live/kumar11/kumar11/4231.ts
+https://ayna-three.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m3u8
+#http://starshare.org/live/kumar11/kumar11/4231.ts
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/q3QxC1nw/images-8.jpg",NEXUS TV HD
 http://38.96.178.201/live/NexusTV/index.m3u8
@@ -94,7 +105,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
 #http://38.96.178.201/live/ATNBangla/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/39mqJq82/Logo-of-Bijoy-TV-svg.png",BIJOY TV
-http://38.96.178.201/live/BijoyTV/index.m3u8
+https://ayna-three.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
+#http://38.96.178.201/live/BijoyTV/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/Z1Sf2fwL/images-1.jpg",SATV
 http://tv.bdiptv.store/live/restream/restreamzz/55.m3u8
@@ -120,7 +132,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://mytvbangla.com/0.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/XxKjGBHf/images-7.jpg",GTV HD
-http://tv.bdiptv.store/live/restream/restreamzz/87.m3u8
+https://ayna-three.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8
+#http://tv.bdiptv.store/live/restream/restreamzz/87.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="74" group-title="INDIABANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA 
 http://tv.bdiptv.store/live/restream/restreamzz/14.m3u8
