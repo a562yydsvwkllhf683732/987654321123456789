@@ -147,9 +147,9 @@ https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1713/output/index.mpd
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
-http://tv.bdiptv.store/live/restream/restreamzz/52.m3u8
+#http://tv.bdiptv.store/live/restream/restreamzz/52.m3u8
 #httv.store/l/restream/restreamzz/223.m3u
-#http://opplex.ch:8080/live/323232/323232/245898.ts
+http://opplex.ch:8080/live/323232/323232/245898.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/4n6xtjQv/images-5-removebg-preview.png",COLORS BANGLA HD
 https://vood.yflix.top/api/Colors_Bangla_voot_MOB/mono.m3u8
