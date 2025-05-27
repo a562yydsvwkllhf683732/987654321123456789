@@ -162,7 +162,7 @@ https://vood.yflix.top/api/Colors_Bangla_voot_MOB/mono.m3u8
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/rRf3WGjW/images-removebg-preview-3.png",SUN BANGLA HD
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
-#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/LdCw4WDj/images-1.jpg",SONY AATH
+#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="",SONY AATH
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="PAKISTAN" tvg-logo="https://i.ibb.co/jkZDmRS4/images-1-removebg-preview.png",HUM TV 
@@ -187,10 +187,6 @@ https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/dd5030d1-5cc8
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1724/output/index.mpd
 #http://tv.bdiptv.store/live/restream/restreamzz/81.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="INDIABANGLA",BANGLA PLUS
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-#https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDINDIvg-logo="https://i.ibb.co.com/dsRRMM8r/images-4.jpg",STAR PLUS HD
 http://opplex.to/live/Daljeets290/9671717722DSv%40/66166.ts
@@ -304,7 +300,7 @@ http://38.96.178.201/live/TSports/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/15263.m3u8
 #http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg",A SPORTS HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/k20C9S8X/images-2-removebg-preview-1.png",A SPORTS HD
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Ygpg0Wh/images-1-removebg-preview-1.png",TEN SPORTS HD
@@ -354,6 +350,10 @@ https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="NEWS",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/358Z5Skw/images-3-removebg-preview-1.png" group-title="INDIABANGLA",B4U 
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/whp8fdjr/images-3-removebg-preview.png",DISCOVERY HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -378,7 +378,7 @@ http://starshare.org/live/kumar11/kumar11/7343.ts
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/v4z2nSwK/images-2-removebg-preview.png",WILD
 http://gotit14.xyz/live/2F635BX/ZJX02CY/72219.ts
 #EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvogo="https://i.ibb.co.com/JWVg4vqs/images-13.jpg",LOVE NATURE
+#EXTINF:-1 group-title="DISCOVERY" tvogo="https://i.ibb.co/57jPX2b/images-13-removebg-preview.png",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/G4dw4VNr/images-removebg-preview-1.png",WILD EARTH
@@ -399,12 +399,12 @@ http://starshare.org/live/kumar11/kumar11/36927.ts
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="DISCOVERY", ZEE ZEST HD
 https://live.drmlive-02.workers.dev/zee/348.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tT0yQVWb/images.jpg"group-title="ISLAMICS",MAKKAH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3W7ghX7/images-10-removebg-preview.png"group-title="ISLAMICS",MAKKAH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c6:6c8194b07b1f2d114feb594d2ae6ee51
 https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="ISLAMICS", AL SUNNAH TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rCTskFg/images-5-removebg-preview-1.png" group-title="ISLAMICS", AL SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7qgpwLh/images-9-removebg-preview.png", PEACE TV BANGLA
