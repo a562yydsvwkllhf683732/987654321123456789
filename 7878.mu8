@@ -196,7 +196,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 http://opplex.to/live/Daljeets290/9671717722DSv%40/66166.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/53.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/k2LzmV4N/download-1.jpg",STAR BHARAT HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/sJmnPNPW/images-removebg-preview-1.png",STAR BHARAT
 http://opplex.to/live/Daljeets290/9671717722DSv%40/221255.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/234.m3u8
 #EXTM3U
@@ -219,7 +219,7 @@ https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",ZEE CINEMA HD
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
 #EXTM3U
-#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co.com/8n2qMTmR/unnamed.jpg",STAR GOLD HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/C3wYyHJm/images-1-removebg-preview.png",STAR GOLD
 http://opplex.to/live/Daljeets290/9671717722DSv%40/66177.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/92.m3u8
 #EXTM3U
@@ -254,13 +254,13 @@ http://starshare.org/live/kumar11/kumar11/19834.ts
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #http://tv.bdiptv.store/live/restream/restreamkak/13.ts
 #EXTM3U
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/bj6skF3M/images-3.jpg",HUNGAMA 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/Z1dGgD9G/images-2-removebg-preview-1.png",HUNGAMA 
 http://starshare.org/live/kumar11/kumar11/18456.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/HszssGV/images-3.jpg",SUPER HUNGAMA
 #http://tv.bdiptv.store/live/restream/restreamzz/159.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/GN8TVjX/images-2.png",DISNEP CHANNEL
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/5xft6LVW/images-3-removebg-preview-1.png",DISNEP CHANNEL
 http://gotit14.xyz/live/2F635BX/ZJX02CY/117791.ts
 #http://opplex.tv:8080/live/mother/mother/167551.ts
 #http://38.76.152.22:8000/play/a070/index.m3u8
@@ -310,7 +310,7 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTIM3U
-#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/gZpvGJmt/images-2.jpg",STAR SP 1 HD
+#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/dsxYymdR/images-3-removebg-preview.png",STAR SP 1 HD
 http://opplex.to/live/Daljeets290/9671717722DSv%40/167573.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/89.m3u8
 #https://raw.githubusercontent.com/rahul979854/Channels/refs/heads/main/StarSport1Hd.m3u8
@@ -320,12 +320,12 @@ http://opplex.to/live/Daljeets290/9671717722DSv%40/167574.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/90.m3u8
 #https://github.com/rahul979854/Channels/raw/main/Sports18Hd.m3u8
 #EXTIM3U
-#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",STAR SPORTS 1 HD
+#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/C5hN5yng/images-removebg-preview.png",STAR SPORTS 1 HD
 http://opplex.to/live/Daljeets290/9671717722DSv%40/167578.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/88.m3u8
 #https://github.com/rahul979854/Channels/raw/main/StarSportSelect1Hd.m3u8
 #EXTIM3U
-#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",STAR SPORTS 2 HD
+#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/m5gXkYZW/Star-sports-select-2-hd.png",STAR SPORTS 2 HD
 http://opplex.to/live/Daljeets290/9671717722DSv%40/167579.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/15246.m3u8
 #https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
@@ -371,11 +371,11 @@ https://github.com/rahul979854/Channels/raw/main/AnimalsPlanetHd.m3u8
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/9mvzyvg2/channels4-profile-2.jpg",SONY BBC HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/q3870F8P/images.png",NATIONAL
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/bjCBzC0P/images-4-removebg-preview.png",NATIONAL
 http://starshare.org/live/kumar11/kumar11/7343.ts
 #http://opplex.tv:8080/live/mother/mother/245967.ts
 #EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/1Gny5NSv/images-1.jpg",WILD
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/v4z2nSwK/images-2-removebg-preview.png",WILD
 http://gotit14.xyz/live/2F635BX/ZJX02CY/72219.ts
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvogo="https://i.ibb.co.com/JWVg4vqs/images-13.jpg",LOVE NATURE
@@ -413,7 +413,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUm
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WW1n07rD/images.jpg",SONY PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="82" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735048740482.png",STAR MOVIES HD 
+#EXTINF:-1 tvg-id="82" group-title="Movies" tvg-logo="https://i.ibb.co/wF1rHf7h/29750224621-21ca6a0f1b-removebg-preview.png",STAR MOVIES HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/0f2ba568-bf5b
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1725/output/index.mpd
