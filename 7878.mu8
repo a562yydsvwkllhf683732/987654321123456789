@@ -112,10 +112,10 @@ https://ayna-three.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3
 http://tv.bdiptv.store/live/restream/restreamzz/55.m3u8
 #http://38.96.178.201/live/SATV/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/k267DrN2/channels4-profile-1.jpg",BANGLA TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/pjHznVR1/images-removebg-preview.png",BANGLA TV
 http://38.96.178.201/live/BanglaTV/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BKGkcw3b/Channel-S-Bangla-1.jpg"group-title="BANGLADESH",S TV
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/zHNBT2WZ/images-2.jpg",S TV
 #http://tv.bdiptv.store/live/restream/restreamzz/155.ts
 http://38.96.178.201/live/ChannelS/index.m3u8
 #EXTM3U
