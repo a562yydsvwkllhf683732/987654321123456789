@@ -147,7 +147,7 @@ https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1713/output/index.mpd
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
-#http://tv.bdiptv.store/live/restream/restreamzz/223.m3u8
+#httv.store/l/restream/restreamzz/223.m3u
 #http://tv.bdiptv.store/live/restream/restreamzz/52.m3u8
 http://opplex.ch:8080/live/323232/323232/245898.ts
 #EXTM3U
@@ -165,14 +165,14 @@ https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_in
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/LdCw4WDj/images-1.jpg",SONY AATH
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="65" group-title="PAKISTAN" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963480044.png",HUM TV 
+#EXTINF:-1 tvg-id="65" group-title="PAKISTAN" tvg-logo="https://i.ibb.co/jkZDmRS4/images-1-removebg-preview.png",HUM TV 
 http://opplex.tv:8080/live/mother/mother/221339.ts
 #https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/1GK4hFSd/images-removebg-preview-1.png",AKASH AATH
 http://gotit14.xyz/live/2F635BX/ZJX02CY/808975.ts
 #EXTM3U
-#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.postimg.cc/qvPXDQ68/Enter10-Bangla.jpg",ENTER 10 BANGLA
+#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/v4MC48R0/images-5-removebg-preview.png",ENTER 10 BANGLA
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/DfcqBYtc/removebg-preview.png",ZEE BANGLA CINEMA
@@ -268,15 +268,15 @@ http://gotit14.xyz/live/2F635BX/ZJX02CY/117791.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/XkxjFLQd/images.jpg",DISNEP HD
 #http://tv.bdiptv.store/live/restream/restreamzz/71.ts
 #EXTM3U
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/3mhm3Tjm/images-1.jpg",MOTU-PATLU 1
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/B2jg2D15/images-8-removebg-preview.png",MOTU-PATLU 1
 http://opplex.tv:8080/live/mother/mother/307079.ts
 #http://xott.live/live/259862/259861/311373.ts
 #EXTM3U
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/1G9K3MV5/download.jpg",MOTU-PATLU 2
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/fd3Z6hLq/images-7-removebg-preview.png",MOTU-PATLU 2
 http://opplex.tv:8080/live/mother/mother/311373.ts
 #http://xott.live/live/259862/259861/307079.ts
 #EXTM3U
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/Ngr5Vvw0/images.jpg",DORAMON
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/Swk6Zccy/images-4-removebg-preview.png",DORAMON
 http://opplex.tv:8080/live/mother/mother/388459.ts
 #http://xott.live/live/259862/259861/388459.ts
 #EXTM3U 
@@ -288,10 +288,10 @@ http://gotit14.xyz/live/2F635BX/ZJX02CY/606161.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/10.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/R47X7hLV/250520559036.jpg",POGO KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/tRvtDGt/download-removebg-preview.png",POGO KIDS
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/5XV384Qn/images.jpg",DISCOVERY KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/9HnYq7x9/images-6-removebg-preview.png",DISCOVERY KIDS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -299,7 +299,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-kids/drmLicense
 https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
 #EXTIM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/RkfpnmWd/download-2.jpg",T SPORTS HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TDZqX7NH/images-removebg-preview.png",T SPORTS HD
 http://38.96.178.201/live/TSports/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/15263.m3u8
 #http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
@@ -307,7 +307,7 @@ http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg",A SPORTS HD
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",TEN SPORTS HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Ygpg0Wh/images-1-removebg-preview-1.png",TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/dsxYymdR/images-3-removebg-preview.png",STAR SP 1 HD
@@ -343,7 +343,7 @@ https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="90" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045577141.png",EURO SPORTS HD 
+#EXTINF:-1 tvg-id="90" group-title="Sports" tvg-logo="https://i.ibb.co/yF7HJSdm/images-2-removebg-preview.png",EURO SPORTS HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/df67fc1a-01d1
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1712/output/index.mpd
@@ -354,7 +354,7 @@ https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="NEWS",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/vvRLnh02/images-1744979362989.png",DISCOVERY HD
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/whp8fdjr/images-3-removebg-preview.png",DISCOVERY HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -381,7 +381,7 @@ http://gotit14.xyz/live/2F635BX/ZJX02CY/72219.ts
 #EXTINF:-1 group-title="DISCOVERY" tvogo="https://i.ibb.co.com/JWVg4vqs/images-13.jpg",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/8n4VVBGm/images.jpg",WILD EARTH
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/G4dw4VNr/images-removebg-preview-1.png",WILD EARTH
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/yDmkH01/images-2-removebg-preview.png",TRAVELXP HD
@@ -407,7 +407,7 @@ https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="ISLAMICS", AL SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="ISLAMICS", PEACE TV BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7qgpwLh/images-9-removebg-preview.png", PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BK5rhV9d/images-3.jpg",SONY PIX HD
