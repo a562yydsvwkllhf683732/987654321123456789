@@ -233,9 +233,9 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gZ3Yg7pH/images-removebg-preview-4.png",NICK BANGLA
-http://opplex.to/live/Daljeets290/9671717722DSv%40/150482.ts
+http://tv.bdiptv.store/live/restream/restreamzz/96.m3u8
+#http://opplex.to/live/Daljeets290/9671717722DSv%40/150482.ts
 #http://38.76.152.22:8000/play/a00w/index.m3u8
-#http://tv.bdiptv.store/live/restream/restreamzz/96.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/241.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/VcFPKV3T/images-removebg-preview-5.png",SONIC BANGLA
@@ -296,8 +296,8 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
 #EXTIM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TDZqX7NH/images-removebg-preview.png",T SPORTS HD
-http://38.96.178.201/live/TSports/index.m3u8
-#http://tv.bdiptv.store/live/restream/restreamzz/15263.m3u8
+http://tv.bdiptv.store/live/restream/restreamzz/15263.m3u8
+#http://38.96.178.201/live/TSports/index.m3u8
 #http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/k20C9S8X/images-2-removebg-preview-1.png",A SPORTS HD
