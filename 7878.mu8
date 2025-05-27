@@ -159,10 +159,10 @@ https://vood.yflix.top/api/Colors_Bangla_voot_MOB/mono.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
-#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg",SUN BANGLA HD
+#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/rRf3WGjW/images-removebg-preview-3.png",SUN BANGLA HD
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
-#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co.com/KjvSSYZ6/mobile-logo-496322001666780228.png",SONY AATH
+#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/LdCw4WDj/images-1.jpg",SONY AATH
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="PAKISTAN" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963480044.png",HUM TV 
@@ -175,10 +175,10 @@ http://gotit14.xyz/live/2F635BX/ZJX02CY/808975.ts
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.postimg.cc/qvPXDQ68/Enter10-Bangla.jpg",ENTER 10 BANGLA
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",ZEE BANGLA CINEMA
+#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/DfcqBYtc/removebg-preview.png",ZEE BANGLA CINEMA
 https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BD: Color Bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s" group-title="INDIABANGLA",COLORS BANGLA CINEMA 
+#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/27X1jd64/images-1-removebg-preview-1.png",COLORS BANGLA CINEMA 
 https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/238.m3u8
 #EXTM3U
@@ -348,7 +348,7 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/df67fc1a-01d1
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1712/output/index.mpd
 #EXTM3U
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg", ZEE 24
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/RGYWfjFT/images-1-removebg-preview-2.png", ZEE 24
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="NEWS",ALJAZEERA
