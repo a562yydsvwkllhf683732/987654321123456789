@@ -183,9 +183,10 @@ https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/238.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/KzpggWss/1739965013824-removebg-preview.png",JALSHA MOVIES
+http://opplex.ch/live/3525532727/9752528282/245900.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/dd5030d1-5cc8
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1724/output/index.mpd
+#https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1724/output/index.mpd
 #http://tv.bdiptv.store/live/restream/restreamzz/81.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDINDIvg-logo="https://i.ibb.co.com/dsRRMM8r/images-4.jpg",STAR PLUS HD
@@ -233,10 +234,8 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gZ3Yg7pH/images-removebg-preview-4.png",NICK BANGLA
-http://tv.bdiptv.store/live/restream/restreamzz/96.m3u8
-#http://opplex.to/live/Daljeets290/9671717722DSv%40/150482.ts
+http://opplex.to/live/Daljeets290/9671717722DSv%40/150482.ts
 #http://38.76.152.22:8000/play/a00w/index.m3u8
-#http://tv.bdiptv.store/live/restream/restreamzz/241.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/VcFPKV3T/images-removebg-preview-5.png",SONIC BANGLA
 http://opplex.to/live/Daljeets290/9671717722DSv%40/34011.ts
@@ -244,7 +243,9 @@ http://opplex.to/live/Daljeets290/9671717722DSv%40/34011.ts
 #http://gotit14.xyz/live/2F635BX/ZJX02CY/510222.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/84bhmrKg/Nick-Jr-logo-2023-outline-svg-removebg-preview.png", NICK JR.
+#http://opplex.ch/live/3525532727/9752528282/153156.ts
 http://starshare.org/live/kumar11/kumar11/19834.ts
+http://opplex.ch/live/3525532727/9752528282/153156.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo-title="KIDS"tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",SONY YAY
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
@@ -285,10 +286,12 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gbftMKx5/Cartoon-Network-Hindi.png", CARTOON HD
 #http://tv.bdiptv.store/live/restream/restreamzz/10.m3u8
+#http://opplex.ch/live/3525532727/9752528282/150478.ts
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/tRvtDGt/download-removebg-preview.png",POGO KIDS
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+http://opplex.ch/live/3525532727/9752528282/150483.ts
+#https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/9HnYq7x9/images-6-removebg-preview.png",DISCOVERY KIDS
 #KODIPROP:inputstream=inputstream.adaptive
@@ -299,7 +302,8 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
 #EXTIM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TDZqX7NH/images-removebg-preview.png",T SPORTS HD
-http://tv.bdiptv.store/live/restream/restreamzz/15263.m3u8
+http://opplex.ch/live/3525532727/9752528282/167590.ts
+#http://tv.bdiptv.store/live/restream/restreamzz/15263.m3u8
 #http://38.96.178.201/live/TSports/index.m3u8
 #http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 #EXTM3U
@@ -308,6 +312,7 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Ygpg0Wh/images-1-removebg-preview-1.png",TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+http://opplex.ch/live/3525532727/9752528282/167569.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/dsxYymdR/images-3-removebg-preview.png",STAR SP 1 HD
 http://opplex.to/live/Daljeets290/9671717722DSv%40/167573.ts
@@ -330,7 +335,8 @@ http://opplex.to/live/Daljeets290/9671717722DSv%40/167579.ts
 #https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/5XqLjdKF/Fox-sports-1-10s-removebg-preview.png",FOX SPORTS 1
-http://starshare.org/live/kumar11/kumar11/423842.ts
+http://opplex.ch/live/3525532727/9752528282/167593.ts
+#http://starshare.org/live/kumar11/kumar11/423842.ts
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bRr3QHZS/Ten-HD.png",SONY 1 HD
 https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
@@ -343,12 +349,14 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/yF7HJSdm/images-2-removebg-preview.png",EURO SPORTS HD 
+http://opplex.ch/live/3525532727/9752528282/167585.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/df67fc1a-01d1
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1712/output/index.mpd
+#https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1712/output/index.mpd
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/jZqHHq04/images-1-removebg-preview.png", BEIN SPORTS 
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+http://opplex.ch/live/3525532727/9752528282/167584.ts
+#http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/RGYWfjFT/images-1-removebg-preview-2.png", ZEE 24
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
@@ -423,12 +431,14 @@ https://tiger-hub.vercel.app/Salam-bangla-islamic/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BK5rhV9d/images-3.jpg",SONY PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+http://opplex.ch/live/3525532727/9752528282/66315.ts
 #EXTM3U
 #EXTINF:-1 tvg-id="82" group-title="Movies" tvg-logo="https://i.ibb.co/wF1rHf7h/29750224621-21ca6a0f1b-removebg-preview.png",STAR MOVIES HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/0f2ba568-bf5b
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1725/output/index.mpd
+#https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1725/output/index.mpd
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/dwVTjcjB/images-removebg-preview.png", HBO
-http://starshare.org/live/kumar11/kumar11/423865.ts
+http://opplex.ch/live/3525532727/9752528282/347720.ts
+#http://starshare.org/live/kumar11/kumar11/423865.ts
 #EXTM3U
