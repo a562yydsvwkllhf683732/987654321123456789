@@ -142,7 +142,8 @@ http://tv.bdiptv.store/live/restream/restreamzz/14.m3u8
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/RTmRpTVQ/removebg-preview.png",STAR JALSHA SD
-http://tv.bdiptv.store/live/restream/restreamzz/52.m3u8
+http://opplex.ch/live/3525532727/9752528282/388693.ts
+#http://tv.bdiptv.store/live/restream/restreamzz/52.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/223.m3u
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
@@ -408,6 +409,7 @@ http://starshare.org/live/kumar11/kumar11/180.ts
 http://starshare.org/live/kumar11/kumar11/98878.ts
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASALA
+http://opplex.ch/live/3525532727/9752528282/103689.ts
 http://starshare.org/live/kumar11/kumar11/36927.ts
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_list/1170x658withlog2096037619.png" group-title="DISCOVERY", ZEE ZEST HD
