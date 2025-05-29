@@ -142,9 +142,9 @@ http://tv.bdiptv.store/live/restream/restreamzz/14.m3u8
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/RTmRpTVQ/removebg-preview.png",STAR JALSHA SD
-http://opplex.ch/live/3525532727/9752528282/388693.ts
+http://gotit14.xyz/live/2F635BX/ZJX02CY/34726.ts
+#http://opplex.ch/live/3525532727/9752528282/388693.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/52.m3u8
-#http://tv.bdiptv.store/live/restream/restreamzz/223.m3u
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -156,7 +156,6 @@ http://opplex.ch/live/3525532727/9752528282/245898.ts
 https://vood.yflix.top/api/Colors_Bangla_voot_MOB/mono.m3u8
 #https://vood.yflix.top/api/Colors_Bangla_HD_voot_MOB/mono.m3u8
 #http://opplex.to/live/Daljeets290/9671717722DSv%40/245895.ts
-#http://tv.bdiptv.store/live/restream/restreamzz/91.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
@@ -167,7 +166,7 @@ https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_in
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="PAKISTAN" tvg-logo="https://i.ibb.co/jkZDmRS4/images-1-removebg-preview.png",HUM TV 
-http://opplex.tv:8080/live/mother/mother/221339.ts
+http://opplex.ch/live/3525532727/9752528282/221339.ts
 #https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/1GK4hFSd/images-removebg-preview-1.png",AKASH AATH
@@ -266,15 +265,13 @@ http://gotit14.xyz/live/2F635BX/ZJX02CY/117791.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/71.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/B2jg2D15/images-8-removebg-preview.png",MOTU-PATLU 1
-http://opplex.tv:8080/live/mother/mother/307079.ts
-#http://xott.live/live/259862/259861/311373.ts
+http://opplex.ch/live/3525532727/9752528282/307079.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/fd3Z6hLq/images-7-removebg-preview.png",MOTU-PATLU 2
-http://opplex.tv:8080/live/mother/mother/311373.ts
-#http://xott.live/live/259862/259861/307079.ts
+http://opplex.ch/live/3525532727/9752528282/311373.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/Swk6Zccy/images-4-removebg-preview.png",DORAMON
-http://opplex.tv:8080/live/mother/mother/388459.ts
+http://opplex.ch/live/3525532727/9752528282/388459.ts
 #http://xott.live/live/259862/259861/388459.ts
 #EXTM3U 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/zWC6xWJH/Rongeen-TV-logo-2019-present.png",RONGEEN TV
@@ -386,7 +383,7 @@ https://github.com/rahul979854/Channels/raw/main/AnimalsPlanetHd.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/qLMzdwdn/logo.png",SONY BBC HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
-#EXTM3UpngXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/bjCBzC0P/images-4-removebg-preview.png",NATIONAL
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://i.ibb.co/bjCBzC0P/images-4-removebg-preview.png",NATIONAL
 http://starshare.org/live/kumar11/kumar11/7343.ts
 #http://opplex.tv:8080/live/mother/mother/245967.ts
 #EXTM3U
