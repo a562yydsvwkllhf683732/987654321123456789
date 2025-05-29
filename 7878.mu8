@@ -149,7 +149,7 @@ http://tv.bdiptv.store/live/restream/restreamzz/52.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/3c65b579-5825
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1713/output/index.mpd
-http://opplex.ch:8080/live/323232/323232/245898.ts
+http://opplex.ch/live/3525532727/9752528282/245898.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/4n6xtjQv/images-5-removebg-preview.png",COLORS BANGLA HD
 https://vood.yflix.top/api/Colors_Bangla_voot_MOB/mono.m3u8
@@ -190,15 +190,15 @@ http://opplex.ch/live/3525532727/9752528282/245900.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/81.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDINDIvg-logo="https://i.ibb.co.com/dsRRMM8r/images-4.jpg",STAR PLUS HD
-http://opplex.to/live/Daljeets290/9671717722DSv%40/66166.ts
+http://opplex.ch/live/3525532727/9752528282/66166.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/53.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/sJmnPNPW/images-removebg-preview-1.png",STAR BHARAT
-http://opplex.to/live/Daljeets290/9671717722DSv%40/221255.ts
+http://opplex.ch/live/3525532727/9752528282/221255.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/234.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/bgN1ZR1F/images-4-removebg-preview-1.png",COLORS
-http://opplex.to/live/Daljeets290/9671717722DSv%40/66167.ts
+http://opplex.ch/live/3525532727/9752528282/66167.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/93.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png" group-title="INDIA", ZEE TV HD
@@ -217,11 +217,11 @@ https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/C3wYyHJm/images-1-removebg-preview.png",STAR GOLD
-http://opplex.to/live/Daljeets290/9671717722DSv%40/66177.ts
+http://opplex.ch/live/3525532727/9752528282/66177.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/92.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/C3bs5yvh/images-2-removebg-preview-2.png", COLORS C SUPER
-http://opplex.to/live/Daljeets290/9671717722DSv%40/66199.ts
+http://opplex.ch/live/3525532727/9752528282/66199.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/240.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/k20v9vMP/images-2.jpg",SONY WAH
@@ -234,18 +234,17 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gZ3Yg7pH/images-removebg-preview-4.png",NICK BANGLA
-http://opplex.to/live/Daljeets290/9671717722DSv%40/150482.ts
+http://opplex.ch/live/3525532727/9752528282/150482.ts
 #http://38.76.152.22:8000/play/a00w/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/VcFPKV3T/images-removebg-preview-5.png",SONIC BANGLA
-http://opplex.to/live/Daljeets290/9671717722DSv%40/34011.ts
+http://opplex.ch/live/3525532727/9752528282/34011.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/242.m3u8
 #http://gotit14.xyz/live/2F635BX/ZJX02CY/510222.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/84bhmrKg/Nick-Jr-logo-2023-outline-svg-removebg-preview.png", NICK JR.
 #http://opplex.ch/live/3525532727/9752528282/153156.ts
 http://starshare.org/live/kumar11/kumar11/19834.ts
-http://opplex.ch/live/3525532727/9752528282/153156.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo-title="KIDS"tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",SONY YAY
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
@@ -311,28 +310,27 @@ http://opplex.ch/live/3525532727/9752528282/167590.ts
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Ygpg0Wh/images-1-removebg-preview-1.png",TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 http://opplex.ch/live/3525532727/9752528282/167569.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/dsxYymdR/images-3-removebg-preview.png",STAR SP 1 HD
-http://opplex.to/live/Daljeets290/9671717722DSv%40/167573.ts
+http://opplex.ch/live/3525532727/9752528282/167573.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/89.m3u8
 #https://raw.githubusercontent.com/rahul979854/Channels/refs/heads/main/StarSport1Hd.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G4y3H76D/Sports18-1-HD.png",STAR SP 2 HD 
-http://opplex.to/live/Daljeets290/9671717722DSv%40/167574.ts
+http://opplex.ch/live/3525532727/9752528282/167574.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/90.m3u8
 #https://github.com/rahul979854/Channels/raw/main/Sports18Hd.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/C5hN5yng/images-removebg-preview.png",STAR SPORTS 1 HD
-http://opplex.to/live/Daljeets290/9671717722DSv%40/167578.ts
-#http://tv.bdiptv.store/live/restream/restreamzz/88.m3u8
+http://opplex.ch/live/3525532727/9752528282/167578.ts
+88.m3u8
 #https://github.com/rahul979854/Channels/raw/main/StarSportSelect1Hd.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/m5gXkYZW/Star-sports-select-2-hd.png",STAR SPORTS 2 HD
-http://opplex.to/live/Daljeets290/9671717722DSv%40/167579.ts
+http://opplex.ch/live/3525532727/9752528282/167579.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/15246.m3u8
-#https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/5XqLjdKF/Fox-sports-1-10s-removebg-preview.png",FOX SPORTS 1
 http://opplex.ch/live/3525532727/9752528282/167593.ts
