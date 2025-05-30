@@ -142,8 +142,8 @@ http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/RTmRpTVQ/removebg-preview.png",STAR JALSHA SD
-http://smart.bengaldigital.live/Star-jalsha/index.m3u8
-#http://gotit14.xyz/live/2F635BX/ZJX02CY/34726.ts
+#http://smart.bengaldigital.live/Star-jalsha/index.m3u8
+http://gotit14.xyz/live/2F635BX/ZJX02CY/34726.ts
 #http://opplex.ch/live/3525532727/9752528282/388693.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
@@ -153,9 +153,9 @@ http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 http://opplex.ch/live/3525532727/9752528282/245898.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/4n6xtjQv/images-5-removebg-preview.png",COLORS BANGLA HD
-https://vood.yflix.top/api/Colors_Bangla_voot_MOB/mono.m3u8
+#https://vood.yflix.top/api/Colors_Bangla_voot_MOB/mono.m3u8
 #https://vood.yflix.top/api/Colors_Bangla_HD_voot_MOB/mono.m3u8
-#http://opplex.to/live/Daljeets290/9671717722DSv%40/245895.ts
+http://opplex.ch/live/3525532727/9752528282/245895.ts
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
@@ -299,7 +299,8 @@ http://opplex.ch/live/3525532727/9752528282/150483.ts
 https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
 #EXTIM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TDZqX7NH/images-removebg-preview.png",T SPORTS HD
-http://opplex.ch/live/3525532727/9752528282/167590.ts
+https://funn-g1163.huibo.tv/DGI/H2102/chunks.m3u8?p=49&cf=1744984809&d=&ip=60.109.86.40&e=1794985409&h=1bd779f6c79b0f4909848dd023aff83d
+#http://opplex.ch/live/3525532727/9752528282/167590.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/15263.m3u8
 #http://38.96.178.201/live/TSports/index.m3u8
 #http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
@@ -311,22 +312,22 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 http://opplex.ch/live/3525532727/9752528282/167569.ts
 #EXTIM3U
-#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/dsxYymdR/images-3-removebg-preview.png",STAR SP 1 HD
+#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/dsxYymdR/images-3-removebg-preview.png",STAR SPORTS 1 HD
 http://opplex.ch/live/3525532727/9752528282/167573.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/89.m3u8
 #https://raw.githubusercontent.com/rahul979854/Channels/refs/heads/main/StarSport1Hd.m3u8
 #EXTIM3U
-#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G4y3H76D/Sports18-1-HD.png",STAR SP 2 HD 
+#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G4y3H76D/Sports18-1-HD.png",STAR SPORTS 2 HD 
 http://opplex.ch/live/3525532727/9752528282/167574.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/90.m3u8
 #https://github.com/rahul979854/Channels/raw/main/Sports18Hd.m3u8
 #EXTIM3U
-#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/C5hN5yng/images-removebg-preview.png",STAR SPORTS 1 HD
+#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/C5hN5yng/images-removebg-preview.png",STAR SPORTS SELECT 1 HD
 http://opplex.ch/live/3525532727/9752528282/167578.ts
 88.m3u8
 #https://github.com/rahul979854/Channels/raw/main/StarSportSelect1Hd.m3u8
 #EXTIM3U
-#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/m5gXkYZW/Star-sports-select-2-hd.png",STAR SPORTS 2 HD
+#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/m5gXkYZW/Star-sports-select-2-hd.png",STAR SPORTS SELECT 2 HD
 http://opplex.ch/live/3525532727/9752528282/167579.ts
 #http://tv.bdiptv.store/live/restream/restreamzz/15246.m3u8
 #EXTM3U
@@ -351,8 +352,8 @@ http://opplex.ch/live/3525532727/9752528282/167585.ts
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1712/output/index.mpd
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/jZqHHq04/images-1-removebg-preview.png", BEIN SPORTS 
-http://opplex.ch/live/3525532727/9752528282/167584.ts
-#http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#http://opplex.ch/live/3525532727/9752528282/167584.ts
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/RGYWfjFT/images-1-removebg-preview-2.png", ZEE 24
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
