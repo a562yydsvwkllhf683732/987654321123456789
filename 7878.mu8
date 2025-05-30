@@ -136,15 +136,15 @@ https://ayna-three.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3
 #http://tv.bdiptv.store/live/restream/restreamzz/87.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="74" group-title="INDIABANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA 
-http://tv.bdiptv.store/live/restream/restreamzz/14.m3u8
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_list/1170x658310781121.png" group-title="INDIABANGLA",ZEE BANGLA HD
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/RTmRpTVQ/removebg-preview.png",STAR JALSHA SD
-http://gotit14.xyz/live/2F635BX/ZJX02CY/34726.ts
+http://smart.bengaldigital.live/Star-jalsha/index.m3u8
+#http://gotit14.xyz/live/2F635BX/ZJX02CY/34726.ts
 #http://opplex.ch/live/3525532727/9752528282/388693.ts
-#http://tv.bdiptv.store/live/restream/restreamzz/52.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
