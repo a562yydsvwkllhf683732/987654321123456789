@@ -177,7 +177,7 @@ http://opplex.ch/live/3525532727/9752528282/221339.ts
 #https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/1GK4hFSd/images-removebg-preview-1.png",AKASH AATH
-http://gotit14.xyz/live/2F635BX/ZJX02CY/808975.ts
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/v4MC48R0/images-5-removebg-preview.png",ENTER 10 BANGLA
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -273,18 +273,17 @@ http://opplex.ch/live/3525532727/9752528282/311373.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/Swk6Zccy/images-4-removebg-preview.png",DORAMON
 http://opplex.ch/live/3525532727/9752528282/388459.ts
-#http://xott.live/live/259862/259861/388459.ts
 #EXTM3U 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/zWC6xWJH/Rongeen-TV-logo-2019-present.png",RONGEEN TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/vCpt5K0T/images-1-removebg-preview-1.png",KHUSHBOO BANGLA
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gbftMKx5/Cartoon-Network-Hindi.png", CARTOON HD
-#http://tv.bdiptv.store/live/restream/restreamzz/10.m3u8
-#http://opplex.ch/live/3525532727/9752528282/150478.ts
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+http://opplex.ch/live/3525532727/9752528282/150478.ts
+#https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/tRvtDGt/download-removebg-preview.png",POGO KIDS
 http://opplex.ch/live/3525532727/9752528282/150483.ts
