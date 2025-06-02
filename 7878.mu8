@@ -311,20 +311,20 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 http://opplex.ch:8080/live/SHO2393/4702393/167569.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/dsxYymdR/images-3-removebg-preview.png",STAR SPORTS 1 HD
-http://opplex.ch:8080/live/SHO2393/4702393/167573.ts
+http://opplex.tv:8080/live/Amjadsc/nwl1234/167573.ts
 #https://raw.githubusercontent.com/rahul979854/Channels/refs/heads/main/StarSport1Hd.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G4y3H76D/Sports18-1-HD.png",STAR SPORTS 2 HD 
-http://opplex.ch:8080/live/SHO2393/4702393/167574.ts
+http://opplex.tv:8080/live/Amjadsc/nwl1234/167574.ts
 #https://github.com/rahul979854/Channels/raw/main/Sports18Hd.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/C5hN5yng/images-removebg-preview.png",STAR SPORTS SELECT 1 HD
-http://opplex.ch:8080/live/SHO2393/4702393/167578.ts
+http://opplex.tv:8080/live/Amjadsc/nwl1234/167578.ts
 #http://starshare.org/live/shiva123/shiva123/9400.ts
 #https://github.com/rahul979854/Channels/raw/main/StarSportSelect1Hd.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/m5gXkYZW/Star-sports-select-2-hd.png",STAR SPORTS SELECT 2 HD
-http://opplex.ch:8080/live/SHO2393/4702393/167579.ts
+http://opplex.tv:8080/live/Amjadsc/nwl1234/167579.ts
 #http://starshare.org/live/shiva123/shiva123/9401.ts
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/5XqLjdKF/Fox-sports-1-10s-removebg-preview.png",FOX SPORTS 1
