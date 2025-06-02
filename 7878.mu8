@@ -187,22 +187,18 @@ https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/27X1jd64/images-1-removebg-preview-1.png",COLORS BANGLA CINEMA 
 https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
-#http://tv.bdiptv.store/live/restream/restreamzz/238.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/KzpggWss/1739965013824-removebg-preview.png",JALSHA MOVIES
 http://opplex.ch/live/3525532727/9752528282/245900.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/dd5030d1-5cc8
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1724/output/index.mpd
-#http://tv.bdiptv.store/live/restream/restreamzz/81.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INDINDIvg-logo="https://i.ibb.co.com/dsRRMM8r/images-4.jpg",STAR PLUS HD
+#EXTINF:-1 group-title="INDINDI" tvg-logo="https://i.ibb.co.com/dsRRMM8r/images-4.jpg", STAR PLUS HD
 http://opplex.ch/live/3525532727/9752528282/66166.ts
-#http://tv.bdiptv.store/live/restream/restreamzz/53.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/sJmnPNPW/images-removebg-preview-1.png",STAR BHARAT
 http://opplex.ch/live/3525532727/9752528282/221255.ts
-#http://tv.bdiptv.store/live/restream/restreamzz/234.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/bgN1ZR1F/images-4-removebg-preview-1.png",COLORS
 http://opplex.ch/live/3525532727/9752528282/66167.ts
@@ -239,6 +235,9 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co.com/CFm6Qh1/Sony-MAX2.png",SONY MAX 2
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.ibb.co/9m4DH5YG/images-removebg-preview.png", STAR GOLD ROMANCE
+http://opplex.ch:8080/live/SHO2393/4702393/66186.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gZ3Yg7pH/images-removebg-preview-4.png",NICK BANGLA
 http://opplex.ch/live/3525532727/9752528282/150482.ts
@@ -372,8 +371,6 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-channel/drmLicense
 https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
-#http://tv.bdiptv.store/live/restream/restreamzz/98.m3u8
-#http://gotit14.xyz/live/2F635BX/ZJX02CY/510485.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="DISCOVERY", ANIMAL PLANET HD
 http://starshare.org/live/shiva123/shiva123/9391.ts
@@ -425,7 +422,6 @@ https://tiger-hub.vercel.app/Salam-bangla-islamic/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BK5rhV9d/images-3.jpg",SONY PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-http://opplex.ch/live/3525532727/9752528282/66315.ts
 #EXTM3U
 #EXTINF:-1 tvg-id="82" group-title="Movies" tvg-logo="https://i.ibb.co/wF1rHf7h/29750224621-21ca6a0f1b-removebg-preview.png",STAR MOVIES HD 
 http://starshare.org/live/shiva123/shiva123/9384.ts
@@ -436,5 +432,7 @@ http://starshare.org/live/shiva123/shiva123/9384.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/dwVTjcjB/images-removebg-preview.png", HBO
 http://opplex.ch/live/3525532727/9752528282/347720.ts
-#http://starshare.org/live/kumar11/kumar11/423865.ts
+#EXTM3U
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/kgTfK8jT/Star-Movies-Select-HD-removebg-preview.png",STAR MOVIES SELECT HD
+http://opplex.ch:8080/live/SHO2393/4702393/66315.ts
 #EXTM3U
