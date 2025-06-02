@@ -431,7 +431,7 @@ http://starshare.org/live/shiva123/shiva123/9384.ts
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1725/output/index.mpd
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/dwVTjcjB/images-removebg-preview.png", HBO
-http://opplex.ch/live/3525532727/9752528282/347720.ts
+http://opplex.ch:8080/live/SHO2393/4702393/347720.ts
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.ibb.co/kgTfK8jT/Star-Movies-Select-HD-removebg-preview.png",STAR MOVIES SELECT HD
 http://opplex.ch:8080/live/SHO2393/4702393/66315.ts
