@@ -1,3 +1,5 @@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8abd7b9a6d37558000a415e9175961:90a2600c70cc517141f8386324f618b7
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET_WORLD_HD/images/LOGO_HD/image.png" group-title="Infotainment", Animal Planet World HD
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvYW5pbWFsX3BsYW5ldF9oZF93b3JsZC9uZGFzaGhkLw==:Expires=1750082867:KeyName=iptv-prod-media-cdn-keys:Signature=SEF7FrNOKplqpeVonjbdiDPosZhumvhF5gySwc2Ai9YVsxwngy7ZWcvup5YOPCiV3s6_fKDBMJHZICasvOOICQ=="}
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
