@@ -1,8 +1,9 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8abd7b9a6d37558000a415e9175961:90a2600c70cc517141f8386324f618b7
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET_WORLD_HD/images/LOGO_HD/image.png" group-title="Infotainment", Animal Planet World HD
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvYW5pbWFsX3BsYW5ldF9oZF93b3JsZC9uZGFzaGhkLw==:Expires=1750082867:KeyName=iptv-prod-media-cdn-keys:Signature=SEF7FrNOKplqpeVonjbdiDPosZhumvhF5gySwc2Ai9YVsxwngy7ZWcvup5YOPCiV3s6_fKDBMJHZICasvOOICQ=="}
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med14-2/animal_planet_hd_world/ndashhd/animal_planet_hd_world.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvYW5pbWFsX3BsYW5ldF9oZF93b3JsZC9uZGFzaGhkLw==:Expires=1750159156:KeyName=iptv-prod-media-cdn-keys:Signature=P165QXHzEc12yLxAdoCy3lheGtqo0cLw_mB4X9UXzQ2_W8Rgp9M69tYnJI1J5fEluY2YKmxQYjcf1pvYhzePBg==
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2241443a13b439d5a741a7bd6915b354:8df3f646d7378dac47aa70b041fe3999
+[
+    {
+        "category_name": "Adventure",
+        "name": "Discovery ",
+        "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",
+        "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750485051:KeyName=prod_linear:Signature=n2lpkW686U4PkMl2LbaXJank0PgaBBTfKCpCuK8ibuLqlgZRbzris3h1VtCC0q66usrqxbcLQTVXpwLHDiuIBA"
+    }
+]
